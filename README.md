@@ -24,7 +24,7 @@
 * /reports/daily - return a report of daily calculated balances
 
 ### Who do I talk to? ###
-* Aaron Shack: aaron@aaronshack.ca - 778-888-7685
+* Aaron Shack: aaron@aaronshack.ca 
 
 ### Issues I wish I could get too ###
 * Passing in url parameters to indicate order
