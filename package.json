@@ -1,0 +1,34 @@
+{
+  "name": "bench-rest-test",
+  "version": "1.0.0",
+  "description": "This README would normally document whatever steps are necessary to get your application up and running.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node bench-rest-test.js",
+    "dev": "nodemon bench-rest-test.js",
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/aaron-shack/bench-rest-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/aaron-shack/bench-rest-test#readme",
+  "dependencies": {
+    "async": "^2.2.0",
+    "body-parser": "^1.17.1",
+    "chai": "^3.5.0",
+    "express": "^4.15.2",
+    "lodash": "^4.17.4",
+    "mocha": "^3.2.0",
+    "numeral": "^2.0.6",
+    "request": "^2.81.0",
+    "rewire": "^2.5.2",
+    "sinon": "^2.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
